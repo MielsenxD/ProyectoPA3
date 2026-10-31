@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gameon_background">#05040A</color>
+    <color name="gameon_surface">#0D0B19</color>
+    <color name="gameon_surface_2">#121025</color>
+    <color name="gameon_purple">#7C3AED</color>
+    <color name="gameon_purple_bright">#8B5CF6</color>
+    <color name="gameon_white">#FFFFFF</color>
+    <color name="gameon_text">#F7F5FF</color>
+    <color name="gameon_text_secondary">#A7A3B8</color>
+    <color name="gameon_text_muted">#6F6B82</color>
+    <color name="gameon_border">#252039</color>
+</resources>
